@@ -1,7 +1,4 @@
 API
 ===
 
-.. autosummary::
-   :toctree: _autosummary
-
-   demoingreadthedocs.main
+.. autofunction:: demoingreadthedocs.main.random_list
