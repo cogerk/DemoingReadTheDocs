@@ -20,3 +20,12 @@ Contents
 
    usage
    api
+
+
+lumache module
+============
+
+.. automodule:: lumache
+   :members:
+   :undoc-members:
+   :show-inheritance:
