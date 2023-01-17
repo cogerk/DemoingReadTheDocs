@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+main - Python library examples for rst 
 """
 
 __version__ = "0.1.0"
@@ -9,7 +9,7 @@ import random
 def random_list(n):
     """Return a list of random numbers between 0 and 10
 
-    This is basically randint
+    This is basically randint. Super non useful
 
     Args:
         n (int): The number of random numbers to return
