@@ -3,7 +3,6 @@ Lumache - Python library for cooks and food lovers.
 """
 
 __version__ = "0.1.0"
-import random
 
 
 def random_list(n):
@@ -24,4 +23,4 @@ def random_list(n):
         [4, 7, 2, 1]
 
     """
-    return [random.randint(0,10) for i in n]
+    return [4 for i in n]

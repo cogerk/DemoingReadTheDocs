@@ -22,7 +22,7 @@ Contents
    api
 
 
-stack module
+lumache module
 ============
 
 .. automodule:: lumache
