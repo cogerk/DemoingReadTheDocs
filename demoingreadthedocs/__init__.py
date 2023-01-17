@@ -1,3 +1,6 @@
 """
-This is an empty docstring for __init__.py
+__init__.py - Initator library
 """
+
+__version__ = "0.1.0"
+
